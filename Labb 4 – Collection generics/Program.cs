@@ -45,7 +45,6 @@ namespace Labb_4___Collection_generics
 
             //Retrieve using pop method
 
-
             while (empStack.Count > 0)
             {
                 Console.WriteLine(empStack.Pop());
